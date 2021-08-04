@@ -8,7 +8,7 @@
 
 
 
-[See ReactJS Thermometer Chart in Action!] (https://askteammate.com/npm/react-thermometer-chart)
+[See ReactJS Thermometer Chart in Action!] (https://askteam.how/npm/react-thermometer-chart/)
 
 Basic Usages (Uses all default values)
 ```
