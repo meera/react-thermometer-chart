@@ -14,7 +14,7 @@
     "reactjs",
     "donation indicator"
   ],
-  "author": "Meera Datey Bavadekar",
+  "author": "Meera Datey",
   "license": "ISC",
   "peerDependencies": {
     "react": "^16.9.0"
@@ -32,5 +32,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/meera/react-thermometer-chart"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
   }
 }
